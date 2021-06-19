@@ -2,7 +2,6 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
-  // added homepage
   "homepage": "https://first-phoenix.github.io/name_it",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
