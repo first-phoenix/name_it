@@ -2,6 +2,8 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
+  // added homepage
+  "homepage": "https://first-phoenix.github.io/name_it",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -35,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.2"
   }
 }
